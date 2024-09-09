@@ -1,3 +1,24 @@
+/* Home Section Styling */
+#home {
+    background: url('your-image.jpg') no-repeat center center/cover;
+    color: white;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#home .intro h1 {
+    font-size: 3rem;
+}
+
+#home .intro p {
+    font-size: 1.5rem;
+}
+
+/* Rest of the CSS remains the same */
+
 /* Photo Section Styling */
 #photo {
     padding: 2rem 0;
