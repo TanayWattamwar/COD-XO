@@ -34,7 +34,7 @@ nav ul li a {
 /* Home Section Styling */
 #home {
     background: url('your-image.jpg') no-repeat center center/cover;
-    color: white;
+    color: black;
     height: 100vh;
     display: flex;
     justify-content: center;
